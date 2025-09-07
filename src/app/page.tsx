@@ -88,7 +88,7 @@ export default function Home() {
           <div className="space-y-8">
             
             <div className="border-l-4 border-blue-500 pl-6">
-              <h3 className="text-xl font-semibold text-gray-900 dark:text-white">e-dash株式会社（業務委託）</h3>
+              <h3 className="text-xl font-semibold text-gray-900 dark:text-white">クライメートテック企業（業務委託）</h3>
               <p className="text-gray-600 dark:text-gray-400">2024年5月 〜 現在 | フルスタックエンジニア</p>
               <div className="mt-3 flex flex-wrap gap-2">
                 {['Next.js', 'React', 'NestJS', 'PostgreSQL', 'Figma', 'クリーンアーキテクチャ'].map((tech) => (
@@ -107,7 +107,7 @@ export default function Home() {
             </div>
 
             <div className="border-l-4 border-green-500 pl-6">
-              <h3 className="text-xl font-semibold text-gray-900 dark:text-white">株式会社Belong（正社員）</h3>
+              <h3 className="text-xl font-semibold text-gray-900 dark:text-white">中古スマホ販売企業（正社員）</h3>
               <p className="text-gray-600 dark:text-gray-400">2020年10月 〜 2024年4月 | SRE／バックエンドエンジニア</p>
               <div className="mt-3 flex flex-wrap gap-2">
                 {['Go', 'GCP', 'Terraform', 'GitHub Actions', 'BigQuery'].map((tech) => (
@@ -126,7 +126,7 @@ export default function Home() {
             </div>
 
             <div className="border-l-4 border-purple-500 pl-6">
-              <h3 className="text-xl font-semibold text-gray-900 dark:text-white">株式会社トップゲート（正社員）</h3>
+              <h3 className="text-xl font-semibold text-gray-900 dark:text-white">システム開発会社（正社員）</h3>
               <p className="text-gray-600 dark:text-gray-400">2017年4月 〜 2020年9月 | バックエンドエンジニア</p>
               <ul className="mt-4 space-y-2 text-gray-700 dark:text-gray-300">
                 <li>• 在庫管理システム開発においてテックリード代理として設計・推進、特別賞（ハイパフォーマー）を受賞</li>
